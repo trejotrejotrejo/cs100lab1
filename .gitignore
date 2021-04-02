@@ -6,3 +6,6 @@ cmake_install.cmake
 Makefile
 
 c-echo
+test
+lib
+googletest
